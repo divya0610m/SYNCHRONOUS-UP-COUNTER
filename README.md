@@ -44,14 +44,14 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 ![syn prog](https://github.com/user-attachments/assets/93c728aa-e61c-404d-b581-f2e0b42065d8)
 
-**RTL LOGIC UP COUNTER**
-
-![syn wave](https://github.com/user-attachments/assets/08c3a18d-f5ca-4356-8c5f-c83e1281216f)
-
-
-**TIMING DIAGRAM FOR IP COUNTER**
+**RTL LOGIC DIAGRAM**
 
 ![syn dia](https://github.com/user-attachments/assets/63fe1e92-c66d-4d62-b67e-f45a86047a2f)
+
+
+**WAVEFORM**
+
+![syn wave](https://github.com/user-attachments/assets/08c3a18d-f5ca-4356-8c5f-c83e1281216f)
 
 
 **TRUTH TABLE**
