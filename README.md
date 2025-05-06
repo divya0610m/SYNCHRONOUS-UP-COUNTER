@@ -59,4 +59,5 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ![399295644-58d27225-1714-42c3-8ba3-29c0d575b86a](https://github.com/user-attachments/assets/f5884733-31a9-4fe3-b8c5-be07f8b8179d)
 
 **RESULTS**
+
 Thus the program was executed successfully.
